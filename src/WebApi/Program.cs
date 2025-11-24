@@ -47,7 +47,7 @@ app.MapGet("/orders/last", () => OrderService.LastOrders);
 
 app.MapGet("/info", (IConfiguration cfg) => new
 {
-    sql = BadDb.GetConnectionString(), // Usar un método público para acceder al valor
+    sql = BadDb.GetConnectionString(),
     env = Environment.GetEnvironmentVariables(),
     version = "v0.0.1-unsecure"
 });
