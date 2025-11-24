@@ -1,0 +1,17 @@
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\bin\Debug\net8.0\Application.deps.json
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\bin\Debug\net8.0\Application.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\bin\Debug\net8.0\Application.pdb
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\bin\Debug\net8.0\Domain.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\bin\Debug\net8.0\Infrastructure.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\bin\Debug\net8.0\Domain.pdb
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\bin\Debug\net8.0\Infrastructure.pdb
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\obj\Debug\net8.0\Application.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\obj\Debug\net8.0\Application.pdb
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Application\obj\Debug\net8.0\ref\Application.dll

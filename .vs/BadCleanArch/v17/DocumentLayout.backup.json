@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\Application\\Application.csproj|d:\\users\\cafel\\documents\\universidad\\sexto\\metricas de calidad\\parcial\\src\\application\\usecases\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\WebApi\\WebApi.csproj|d:\\users\\cafel\\documents\\universidad\\sexto\\metricas de calidad\\parcial\\src\\webapi\\contracts\\orders\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\contracts\\orders\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\Infrastructure.csproj|d:\\users\\cafel\\documents\\universidad\\sexto\\metricas de calidad\\parcial\\src\\infrastructure\\data\\baddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\baddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\Domain\\Domain.csproj|d:\\users\\cafel\\documents\\universidad\\sexto\\metricas de calidad\\parcial\\src\\domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\WebApi\\WebApi.csproj|d:\\users\\cafel\\documents\\universidad\\sexto\\metricas de calidad\\parcial\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\WebApi\\WebApi.csproj|d:\\users\\cafel\\documents\\universidad\\sexto\\metricas de calidad\\parcial\\src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\Domain\\Domain.csproj|d:\\users\\cafel\\documents\\universidad\\sexto\\metricas de calidad\\parcial\\src\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BadDb.cs",
+              "DocumentMoniker": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\Infrastructure\\Data\\BadDb.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\BadDb.cs",
+              "ToolTip": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\Infrastructure\\Data\\BadDb.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\BadDb.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:04:21.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\appsettings.json",
+              "ToolTip": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T17:06:41.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrder.cs",
+              "DocumentMoniker": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\Application\\UseCases\\CreateOrder.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\CreateOrder.cs",
+              "ToolTip": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\Application\\UseCases\\CreateOrder.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\CreateOrder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:04:14.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\Domain\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\Domain\\Services\\OrderService.cs",
+              "RelativeToolTip": "src\\Domain\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA9wBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:50:42.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:58:50.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\WebApi\\Contracts\\Orders\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Contracts\\Orders\\CreateOrderRequest.cs",
+              "ToolTip": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\WebApi\\Contracts\\Orders\\CreateOrderRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Contracts\\Orders\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:57:35.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Program.cs",
+              "ToolTip": "D:\\Users\\Cafel\\Documents\\Universidad\\sexto\\metricas de calidad\\Parcial\\src\\WebApi\\Program.cs",
+              "RelativeToolTip": "src\\WebApi\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:06:30.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

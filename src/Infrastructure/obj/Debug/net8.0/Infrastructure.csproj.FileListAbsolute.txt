@@ -1,0 +1,12 @@
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

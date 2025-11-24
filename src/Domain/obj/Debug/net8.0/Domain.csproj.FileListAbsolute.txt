@@ -1,0 +1,15 @@
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\bin\Debug\net8.0\Domain.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\bin\Debug\net8.0\Infrastructure.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\bin\Debug\net8.0\Infrastructure.pdb
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\obj\Debug\net8.0\Domain.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Users\Cafel\Documents\Universidad\sexto\metricas de calidad\Parcial\src\Domain\obj\Debug\net8.0\ref\Domain.dll
